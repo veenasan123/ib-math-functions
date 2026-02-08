@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IB DP1 Math — Chapter 5: Functions</title>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"></script>
+
+  <!-- Plotly -->
+  <script src="https://cdn.jsdelivr.net/npm/plotly.js-basic-dist-min@2.35.0/plotly-basic.min.js"></script>
+
+  <!-- App styles -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <button class="hamburger" id="hamburger" aria-label="Toggle sidebar">
+      <span></span><span></span><span></span>
+    </button>
+    <a href="#" class="header__title" id="home-link" style="text-decoration:none;color:inherit;">Chapter 5: Functions</a>
+    <div class="header__right">
+      <div class="progress-bar" id="progress-bar">
+        <div class="progress-bar__fill" id="progress-fill"></div>
+        <span class="progress-bar__text" id="progress-text">0 / 49</span>
+      </div>
+      <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">
+        <span class="theme-toggle__icon" id="theme-icon">&#9790;</span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Sidebar overlay (mobile) -->
+  <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- Sidebar -->
+  <aside class="sidebar" id="sidebar">
+    <nav class="sidebar__nav" id="sidebar-nav">
+      <!-- Sections populated by app.js -->
+    </nav>
+    <button class="sidebar__reset" id="reset-btn">Reset Progress</button>
+  </aside>
+
+  <!-- Main content -->
+  <main class="main" id="main">
+    <!-- Welcome screen -->
+    <div class="welcome" id="welcome">
+      <h2>Welcome to Chapter 5: Functions</h2>
+      <p>IB Diploma Programme Year 1 Mathematics</p>
+      <div class="welcome__sections">
+        <div class="welcome__card" data-section="5.1">
+          <h3>5.1</h3><p>Concept of a Function</p><span class="welcome__count">5 questions</span>
+        </div>
+        <div class="welcome__card" data-section="5.2">
+          <h3>5.2</h3><p>Domain and Range</p><span class="welcome__count">14 questions</span>
+        </div>
+        <div class="welcome__card" data-section="5.3">
+          <h3>5.3</h3><p>Inverse Functions</p><span class="welcome__count">10 questions</span>
+        </div>
+        <div class="welcome__card" data-section="5.4">
+          <h3>5.4</h3><p>Sketching Graphs</p><span class="welcome__count">12 questions</span>
+        </div>
+        <div class="welcome__card" data-section="5.5">
+          <h3>5.5</h3><p>Exam Style Questions</p><span class="welcome__count">8 questions</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Question container (populated by renderer.js) -->
+    <div class="question-container" id="question-container" style="display:none;"></div>
+  </main>
+
+  <!-- Scripts (order matters) -->
+  <script src="js/questions.js"></script>
+  <script src="js/progress.js"></script>
+  <script src="js/graphs.js"></script>
+  <script src="js/renderer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
