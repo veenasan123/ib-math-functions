@@ -611,6 +611,121 @@ body {
   .part-tabs { overflow-x: auto; }
 }
 
+/* ===== Video Button ===== */
+.btn--video {
+  background: linear-gradient(135deg, #7c3aed, #2563eb);
+  color: #fff;
+  font-weight: 600;
+  margin-top: 10px;
+  width: 100%;
+  justify-content: center;
+}
+.btn--video:hover {
+  background: linear-gradient(135deg, #6d28d9, #1d4ed8);
+}
+.btn--sm {
+  padding: 6px 14px;
+  font-size: 0.82rem;
+  width: auto;
+  margin-top: 0;
+}
+
+/* ===== Sidebar Video Button ===== */
+.sidebar-video-btn {
+  margin-left: auto;
+  background: rgba(124,58,237,0.2);
+  border: none;
+  color: #a78bfa;
+  width: 26px; height: 26px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 0.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background var(--transition), color var(--transition);
+}
+.sidebar-video-btn:hover {
+  background: rgba(124,58,237,0.4);
+  color: #c4b5fd;
+}
+
+/* ===== Video Banner (question view) ===== */
+.video-banner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  margin-bottom: 12px;
+  background: linear-gradient(135deg, var(--accent-purple-light), var(--primary-light));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.88rem;
+}
+.video-banner__icon {
+  font-size: 1.1rem;
+  color: var(--accent-purple);
+}
+.video-banner__text {
+  flex: 1;
+  color: var(--text);
+}
+
+/* ===== Video Modal ===== */
+.video-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.video-modal[hidden] { display: none; }
+.video-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.7);
+}
+.video-modal__content {
+  position: relative;
+  width: 90%;
+  max-width: 840px;
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+  overflow: hidden;
+}
+.video-modal__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+}
+.video-modal__title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--text);
+}
+.video-modal__close {
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  line-height: 1;
+  padding: 0 4px;
+  transition: color var(--transition);
+}
+.video-modal__close:hover { color: var(--text); }
+.video-modal__player {
+  display: block;
+  width: 100%;
+  max-height: 70vh;
+  background: #000;
+}
+
 /* ===== KaTeX overrides ===== */
 .katex { font-size: 1.05em; }
 .step .katex, .answer-box .katex { font-size: 1.1em; }

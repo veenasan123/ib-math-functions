@@ -1,0 +1,146 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.160
+Section 5.4: Sketching Graphs. Let's learn how
+
+2
+00:00:04.260 --> 00:00:08.420
+to identify key features and sketch functions.
+
+3
+00:00:11.466 --> 00:00:15.761
+Every graph has key features you should label:
+
+4
+00:00:15.861 --> 00:00:21.302
+intercepts. vertices. and asymptotes. Let's identify them.
+
+5
+00:00:21.400 --> 00:00:25.128
+The y-intercept is where the graph crosses the
+
+6
+00:00:25.228 --> 00:00:27.708
+y-axis. Here it's at 0 comma 2.
+
+7
+00:00:27.866 --> 00:00:32.014
+The x-intercepts are where the graph crosses the x-axis.
+
+8
+00:00:32.133 --> 00:00:36.137
+The vertex is the highest or lowest point. This
+
+9
+00:00:36.237 --> 00:00:39.281
+parabola has a maximum at 1 comma 3.
+
+10
+00:00:42.866 --> 00:00:50.098
+A vertical asymptote occurs where the denominator equals zero. For f of x equals
+
+11
+00:00:50.198 --> 00:00:55.414
+2 over x minus 3. the denominator is zero when x equals 3.
+
+12
+00:00:56.533 --> 00:00:59.817
+Watch how the graph shoots off towards positive
+
+13
+00:00:59.917 --> 00:01:02.553
+and negative infinity near x equals 3.
+
+14
+00:01:02.666 --> 00:01:07.066
+The vertical asymptote is the dashed red line at x equals
+
+15
+00:01:07.166 --> 00:01:11.566
+3. The graph gets closer and closer but never touches it.
+
+16
+00:01:15.133 --> 00:01:19.803
+Case 1: when numerator and denominator have the same
+
+17
+00:01:19.903 --> 00:01:24.939
+degree. the horizontal asymptote is the ratio of leading
+
+18
+00:01:25.039 --> 00:01:28.425
+coefficients. Here. y equals 3 over 2.
+
+19
+00:01:28.466 --> 00:01:32.688
+Case 2: when the numerator has a lower degree than
+
+20
+00:01:32.788 --> 00:01:38.134
+the denominator. the horizontal asymptote is always y equals 0.
+
+21
+00:01:38.200 --> 00:01:40.855
+Case 3: when the numerator has a
+
+22
+00:01:40.955 --> 00:01:44.988
+higher degree. there is no horizontal asymptote.
+
+23
+00:01:51.533 --> 00:01:57.429
+To find where two graphs intersect. set them equal to each other. Here
+
+24
+00:01:57.529 --> 00:02:02.569
+we have y equals negative x squared and y equals 2x minus 1.
+
+25
+00:02:02.666 --> 00:02:07.999
+Set negative x squared equal to 2x minus 1. Rearrange to
+
+26
+00:02:08.099 --> 00:02:12.753
+get x squared plus 2x minus 1 equals 0. Using the
+
+27
+00:02:12.853 --> 00:02:18.574
+quadratic formula. x equals negative 1 plus or minus root 2.
+
+28
+00:02:22.133 --> 00:02:26.529
+In optimization problems. we find the vertex of a
+
+29
+00:02:26.629 --> 00:02:30.841
+parabola. Here. profit P depends on quantity q.
+
+30
+00:02:31.000 --> 00:02:34.932
+The profit function is a downward-opening parabola.
+
+31
+00:02:35.000 --> 00:02:41.929
+The vertex is at q equals 235 with a maximum profit of 684 dollars
+
+32
+00:02:42.029 --> 00:02:48.532
+and 50 cents. This is found using q equals negative b over 2a.
+
+33
+00:02:50.066 --> 00:02:55.571
+IB exam tip: follow a systematic checklist when sketching.
+
+34
+00:02:55.671 --> 00:03:01.080
+Step 1: find vertical asymptotes. Step 2: find horizontal
+
+35
+00:03:01.180 --> 00:03:05.912
+asymptotes using the degree rule. Step 3: find the
+
+36
+00:03:06.012 --> 00:03:11.614
+intercepts. Step 4: connect everything into a smooth curve.
+

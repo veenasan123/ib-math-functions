@@ -1,0 +1,102 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:03.285
+Welcome to section 5.1: Concept of a
+
+2
+00:00:03.385 --> 00:00:06.860
+Function. Let's start with the basics.
+
+3
+00:00:09.933 --> 00:00:16.096
+Think of a function as a machine. You feed in an input x. a rule
+
+4
+00:00:16.196 --> 00:00:22.457
+is applied. and an output comes out. Here. the rule is 2x plus 5.
+
+5
+00:00:22.600 --> 00:00:29.196
+If we put in x equals 2. we get 2 times 2 plus 5. which equals 9.
+
+6
+00:00:29.266 --> 00:00:32.595
+If we put in x equals negative 3. we get
+
+7
+00:00:32.695 --> 00:00:36.966
+2 times negative 3 plus 5. which equals negative 1.
+
+8
+00:00:40.000 --> 00:00:43.237
+In proper notation. we write f of x
+
+9
+00:00:43.337 --> 00:00:47.052
+equals 2x plus 5. Let's break this down.
+
+10
+00:00:47.200 --> 00:00:52.367
+f is the name of the function. x is the input variable. And 2x
+
+11
+00:00:52.467 --> 00:00:56.700
+plus 5 is the rule that tells us what to do with x.
+
+12
+00:00:56.800 --> 00:01:02.472
+To find f of 2. we replace every x with 2. So we get
+
+13
+00:01:02.572 --> 00:01:08.244
+2 times 2 plus 5. which is 4 plus 5. which equals 9.
+
+14
+00:01:12.000 --> 00:01:16.960
+Now for a reverse problem. If f of x equals 3x
+
+15
+00:01:17.060 --> 00:01:21.140
+minus 2. find x when f of x equals 13.
+
+16
+00:01:21.266 --> 00:01:27.286
+We set 3x minus 2 equal to 13. Add 2 to both sides to
+
+17
+00:01:27.386 --> 00:01:33.406
+get 3x equals 15. Divide by 3 and we find x equals 5.
+
+18
+00:01:38.133 --> 00:01:44.313
+A rational function has a fraction with x in the denominator. Here.
+
+19
+00:01:44.413 --> 00:01:47.969
+g of x equals 2x plus 3 over x minus 4.
+
+20
+00:01:48.133 --> 00:01:54.451
+Substituting x equals 2: the numerator is 7. the denominator
+
+21
+00:01:54.551 --> 00:01:59.265
+is negative 2. so g of 2 equals negative 3.5.
+
+22
+00:01:59.400 --> 00:02:05.943
+But be careful! The denominator cannot equal zero. So x minus 4 cannot
+
+23
+00:02:06.043 --> 00:02:11.732
+be zero. meaning x cannot be 4. This is a domain restriction.
+
+24
+00:02:13.333 --> 00:02:18.722
+IB exam tip: always show your substitution step. You earn method
+
+25
+00:02:18.822 --> 00:02:23.697
+marks even if the final answer is wrong. Never skip steps!
+

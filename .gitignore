@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+
+# Manim build artifacts
+videos/media/videos/*/480p15/partial_movie_files/
+videos/media/videos/*/480p15/*.wav
+videos/media/videos/*/480p15/*.srt
+videos/media/videos/*/1080p60/
+videos/media/images/
+videos/media/texts/
+videos/media/Tex/
+videos/media/voiceovers/
+
+# Manim conda/mamba environments
+videos/.mamba/
+
+# Manim source & tooling
+bin/
+
+# PDFs (large, not needed for web app)
+*.pdf

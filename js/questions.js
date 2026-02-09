@@ -3,11 +3,11 @@
 // ============================================================
 
 const SECTIONS = [
-  { id: "5.1", title: "Concept of a Function", count: 5 },
-  { id: "5.2", title: "Domain and Range", count: 14 },
-  { id: "5.3", title: "Inverse Functions", count: 10 },
-  { id: "5.4", title: "Sketching Graphs", count: 12 },
-  { id: "5.5", title: "Exam Style Questions", count: 8 }
+  { id: "5.1", title: "Concept of a Function", count: 5, video: "videos/media/videos/section_5_1_concept/480p15/WhatIsAFunction.mp4", subtitle: "videos/media/videos/section_5_1_concept/480p15/WhatIsAFunction.vtt" },
+  { id: "5.2", title: "Domain and Range", count: 14, video: "videos/media/videos/section_5_2_domain/480p15/DomainAndRange.mp4", subtitle: "videos/media/videos/section_5_2_domain/480p15/DomainAndRange.vtt" },
+  { id: "5.3", title: "Inverse Functions", count: 10, video: "videos/media/videos/section_5_3_inverse/480p15/InverseFunctions.mp4", subtitle: "videos/media/videos/section_5_3_inverse/480p15/InverseFunctions.vtt" },
+  { id: "5.4", title: "Sketching Graphs", count: 12, video: "videos/media/videos/section_5_4_graphs/480p15/SketchingGraphs.mp4", subtitle: "videos/media/videos/section_5_4_graphs/480p15/SketchingGraphs.vtt" },
+  { id: "5.5", title: "Exam Style Questions", count: 8, video: "videos/media/videos/section_5_5_exam/480p15/ExamStrategies.mp4", subtitle: "videos/media/videos/section_5_5_exam/480p15/ExamStrategies.vtt" }
 ];
 
 const QUESTIONS = [

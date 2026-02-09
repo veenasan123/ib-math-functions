@@ -1,0 +1,170 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.672
+Section 5.5: Exam Strategies. Let's review the key
+
+2
+00:00:04.772 --> 00:00:08.108
+techniques you need for the IB exam.
+
+3
+00:00:11.200 --> 00:00:18.028
+In context problems. the inverse has real-world meaning. A company's
+
+4
+00:00:18.128 --> 00:00:21.900
+profit is P of n equals 40n minus 130.
+
+5
+00:00:22.000 --> 00:00:26.947
+Find P inverse of 1790. This means: how many
+
+6
+00:00:27.047 --> 00:00:32.340
+items must be sold to earn 1790 dollars profit?
+
+7
+00:00:32.400 --> 00:00:39.408
+Set 40n minus 130 equal to 1790. Add 130 to get
+
+8
+00:00:39.508 --> 00:00:46.820
+40n equals 1920. Divide by 40: n equals 48 items.
+
+9
+00:00:51.466 --> 00:00:57.066
+Company A charges 35n dollars. Company B charges 40n
+
+10
+00:00:57.166 --> 00:01:01.998
+minus 130 dollars. When is Company A cheaper?
+
+11
+00:01:02.133 --> 00:01:09.297
+Set up the inequality: 35n less than 40n minus 130. Subtract 40n
+
+12
+00:01:09.397 --> 00:01:15.881
+from both sides to get negative 5n less than negative 130.
+
+13
+00:01:15.933 --> 00:01:20.562
+Now here's the critical step everyone forgets: when you divide
+
+14
+00:01:20.662 --> 00:01:24.833
+by a negative number. you must FLIP the inequality sign!
+
+15
+00:01:24.933 --> 00:01:28.328
+So n is greater than 26. Company A is
+
+16
+00:01:28.428 --> 00:01:32.201
+cheaper when more than 26 items are sold.
+
+17
+00:01:35.733 --> 00:01:41.642
+Finding the range of a restricted function requires checking endpoints and
+
+18
+00:01:41.742 --> 00:01:46.514
+behaviour near asymptotes. Consider g of x equals 3 minus 12
+
+19
+00:01:46.614 --> 00:01:50.249
+over x plus 3 on the interval negative 9 to 9.
+
+20
+00:01:50.400 --> 00:01:54.355
+There's a vertical asymptote at x equals negative
+
+21
+00:01:54.455 --> 00:01:57.500
+3. The graph splits into two branches.
+
+22
+00:01:57.600 --> 00:02:03.942
+Evaluating the endpoints: g of negative 9 equals 5. and g of
+
+23
+00:02:04.042 --> 00:02:09.740
+9 equals 2. The horizontal asymptote is at y equals 3.
+
+24
+00:02:09.866 --> 00:02:14.724
+The range is y less than or equal to 2. or y greater than
+
+25
+00:02:14.824 --> 00:02:19.942
+or equal to 5. The values between 2 and 5 are never reached.
+
+26
+00:02:23.533 --> 00:02:26.990
+One more recap of the big trick. Solve g of
+
+27
+00:02:27.090 --> 00:02:30.465
+x equals g inverse of x for this function.
+
+28
+00:02:30.533 --> 00:02:36.857
+Use the trick: solve g of x equals x. So 2x plus ln of x
+
+29
+00:02:36.957 --> 00:02:43.969
+minus 2 equals x. Simplify to x plus ln of x minus 2 equals 0.
+
+30
+00:02:44.133 --> 00:02:50.233
+This can't be solved algebraically. so use your TI-84 calculator.
+
+31
+00:02:50.333 --> 00:02:55.289
+The answer is x equals 2.28 to 3 significant figures.
+
+32
+00:02:58.866 --> 00:03:01.658
+Mistake 1: forgetting to show your
+
+33
+00:03:01.758 --> 00:03:05.486
+substitution steps. Always show your working!
+
+34
+00:03:05.533 --> 00:03:08.477
+Mistake 2: not flipping the inequality
+
+35
+00:03:08.577 --> 00:03:11.121
+sign when dividing by a negative.
+
+36
+00:03:11.200 --> 00:03:14.873
+Mistake 3: writing f inverse as 1 over f.
+
+37
+00:03:14.973 --> 00:03:20.028
+Remember. it's the inverse function. not the reciprocal.
+
+38
+00:03:20.066 --> 00:03:23.362
+Mistake 4: missing domain restrictions
+
+39
+00:03:23.462 --> 00:03:26.758
+from roots. fractions. and logarithms.
+
+40
+00:03:26.800 --> 00:03:29.164
+Mistake 5: forgetting to draw
+
+41
+00:03:29.264 --> 00:03:32.988
+asymptotes when sketching rational functions.
+
+42
+00:03:33.066 --> 00:03:36.614
+Good luck on your IB exam! You've got this!
+

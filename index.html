@@ -54,19 +54,29 @@
       <p>IB Diploma Programme Year 1 Mathematics</p>
       <div class="welcome__sections">
         <div class="welcome__card" data-section="5.1">
-          <h3>5.1</h3><p>Concept of a Function</p><span class="welcome__count">5 questions</span>
+          <h3>5.1</h3><p>Concept of a Function</p>
+          <span class="welcome__count">5 questions</span>
+          <button class="btn btn--video" data-section="5.1" onclick="event.stopPropagation()">&#9654; Watch Explainer</button>
         </div>
         <div class="welcome__card" data-section="5.2">
-          <h3>5.2</h3><p>Domain and Range</p><span class="welcome__count">14 questions</span>
+          <h3>5.2</h3><p>Domain and Range</p>
+          <span class="welcome__count">14 questions</span>
+          <button class="btn btn--video" data-section="5.2" onclick="event.stopPropagation()">&#9654; Watch Explainer</button>
         </div>
         <div class="welcome__card" data-section="5.3">
-          <h3>5.3</h3><p>Inverse Functions</p><span class="welcome__count">10 questions</span>
+          <h3>5.3</h3><p>Inverse Functions</p>
+          <span class="welcome__count">10 questions</span>
+          <button class="btn btn--video" data-section="5.3" onclick="event.stopPropagation()">&#9654; Watch Explainer</button>
         </div>
         <div class="welcome__card" data-section="5.4">
-          <h3>5.4</h3><p>Sketching Graphs</p><span class="welcome__count">12 questions</span>
+          <h3>5.4</h3><p>Sketching Graphs</p>
+          <span class="welcome__count">12 questions</span>
+          <button class="btn btn--video" data-section="5.4" onclick="event.stopPropagation()">&#9654; Watch Explainer</button>
         </div>
         <div class="welcome__card" data-section="5.5">
-          <h3>5.5</h3><p>Exam Style Questions</p><span class="welcome__count">8 questions</span>
+          <h3>5.5</h3><p>Exam Style Questions</p>
+          <span class="welcome__count">8 questions</span>
+          <button class="btn btn--video" data-section="5.5" onclick="event.stopPropagation()">&#9654; Watch Explainer</button>
         </div>
       </div>
     </div>
@@ -74,6 +84,18 @@
     <!-- Question container (populated by renderer.js) -->
     <div class="question-container" id="question-container" style="display:none;"></div>
   </main>
+
+  <!-- Video modal -->
+  <div class="video-modal" id="video-modal" hidden>
+    <div class="video-modal__backdrop" id="video-backdrop"></div>
+    <div class="video-modal__content">
+      <div class="video-modal__header">
+        <span class="video-modal__title" id="video-title"></span>
+        <button class="video-modal__close" id="video-close">&times;</button>
+      </div>
+      <video class="video-modal__player" id="video-player" controls></video>
+    </div>
+  </div>
 
   <!-- Scripts (order matters) -->
   <script src="js/questions.js"></script>

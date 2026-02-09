@@ -1,0 +1,110 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.592
+Section 5.3: Inverse Functions. This is one of
+
+2
+00:00:04.692 --> 00:00:08.468
+the most tested topics on the IB exam.
+
+3
+00:00:11.533 --> 00:00:17.314
+An inverse function reverses the process. If f of 2 equals 3.
+
+4
+00:00:17.414 --> 00:00:22.713
+then f inverse of 3 equals 2. The input and output swap.
+
+5
+00:00:22.800 --> 00:00:28.940
+Here you can see: f takes 2 to 3. and f inverse takes 3 back to 2.
+
+6
+00:00:29.000 --> 00:00:33.913
+Very important: f inverse is NOT the same as 1 over
+
+7
+00:00:34.013 --> 00:00:39.124
+f of x. The negative 1 means inverse. not reciprocal!
+
+8
+00:00:42.733 --> 00:00:48.201
+Let's find f inverse of 11 when f of x equals 3x plus 5.
+
+9
+00:00:48.333 --> 00:00:53.899
+Set 3x plus 5 equal to 11 and solve. Subtract 5 to
+
+10
+00:00:53.999 --> 00:00:59.225
+get 3x equals 6. Divide by 3 to get x equals 2.
+
+11
+00:00:59.266 --> 00:01:03.054
+Therefore. f inverse of 11 equals 2.
+
+12
+00:01:07.666 --> 00:01:10.995
+To graph an inverse. we reflect the original
+
+13
+00:01:11.095 --> 00:01:13.254
+curve in the line y equals x.
+
+14
+00:01:13.400 --> 00:01:17.452
+Here is f of x equals e to the x minus 2.
+
+15
+00:01:18.600 --> 00:01:23.487
+Reflecting in y equals x gives us the inverse: f inverse
+
+16
+00:01:23.587 --> 00:01:27.672
+of x equals natural log of x plus 2. Notice the
+
+17
+00:01:27.772 --> 00:01:32.660
+key point 0 comma negative 1 becomes negative 1 comma 0.
+
+18
+00:01:32.733 --> 00:01:37.953
+And the horizontal asymptote of f at y equals negative 2 becomes
+
+19
+00:01:38.053 --> 00:01:42.857
+a vertical asymptote of the inverse at x equals negative 2.
+
+20
+00:01:45.400 --> 00:01:50.253
+Here's the big trick. If the exam asks you to solve f of x
+
+21
+00:01:50.353 --> 00:01:55.634
+equals f inverse of x. just solve f of x equals x instead. This
+
+22
+00:01:55.734 --> 00:02:00.588
+works because f and f inverse meet on the line y equals x.
+
+23
+00:02:02.666 --> 00:02:09.633
+Example: f of x equals x cubed plus x minus 8. Set it equal to x:
+
+24
+00:02:09.733 --> 00:02:17.678
+x cubed plus x minus 8 equals x. The x terms cancel. giving x cubed equals
+
+25
+00:02:17.778 --> 00:02:24.310
+8. So x equals 2. The intersection is at the point 2 comma 2.
+
+26
+00:02:27.866 --> 00:02:33.080
+Remember: f of x equals f inverse of x means solve f of
+
+27
+00:02:33.180 --> 00:02:38.974
+x equals x. This saves huge time on Paper 1. Write this down!
+

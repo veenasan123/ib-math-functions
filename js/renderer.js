@@ -28,7 +28,18 @@ const Renderer = (() => {
     const q = question;
     const totalParts = q.parts.length;
 
-    let html = `<div class="q-card">`;
+    // Video banner for each section
+    const sec = SECTIONS.find(s => s.id === q.section);
+    let html = '';
+    if (sec && sec.video) {
+      html += `<div class="video-banner" id="video-banner">
+        <span class="video-banner__icon">&#9654;</span>
+        <span class="video-banner__text">Watch the <strong>${sec.id} ${sec.title}</strong> explainer video</span>
+        <button class="btn btn--video btn--sm" id="btn-section-video" data-section="${sec.id}">Watch Video</button>
+      </div>`;
+    }
+
+    html += `<div class="q-card">`;
 
     // Header
     html += `<div class="q-card__header">
@@ -147,6 +158,12 @@ const Renderer = (() => {
     // Render graph if present
     if (q.graph) {
       setTimeout(() => Graphs.render(q.graph, 'graph-plot', 'graph-controls'), 100);
+    }
+
+    // Bind video banner
+    const btnVideo = document.getElementById('btn-section-video');
+    if (btnVideo) {
+      btnVideo.addEventListener('click', () => App.openVideo(btnVideo.dataset.section));
     }
 
     // Bind events

@@ -22,6 +22,7 @@ const App = (() => {
         <div class="sidebar-section__header">
           <span class="arrow">&#9660;</span>
           ${sec.id} ${sec.title}
+          ${sec.video ? `<button class="sidebar-video-btn" data-section="${sec.id}" title="Watch explainer video">&#9654;</button>` : ''}
         </div>
         <div class="sidebar-section__items">`;
 
@@ -176,6 +177,31 @@ const App = (() => {
         if (firstQ) navigateTo(firstQ.id);
       });
     });
+
+    // Video buttons — welcome cards
+    document.querySelectorAll('.btn--video').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        openVideo(btn.dataset.section);
+      });
+    });
+
+    // Video buttons — sidebar
+    document.querySelectorAll('.sidebar-video-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        openVideo(btn.dataset.section);
+      });
+    });
+
+    // Video modal close
+    const videoClose = document.getElementById('video-close');
+    const videoBackdrop = document.getElementById('video-backdrop');
+    if (videoClose) videoClose.addEventListener('click', closeVideo);
+    if (videoBackdrop) videoBackdrop.addEventListener('click', closeVideo);
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeVideo();
+    });
   }
 
   function closeSidebar() {
@@ -185,8 +211,43 @@ const App = (() => {
     if (overlay) overlay.classList.remove('open');
   }
 
+  function openVideo(sectionId) {
+    const sec = SECTIONS.find(s => s.id === sectionId);
+    if (!sec || !sec.video) return;
+
+    const modal = document.getElementById('video-modal');
+    const player = document.getElementById('video-player');
+    const title = document.getElementById('video-title');
+
+    title.textContent = `${sec.id} ${sec.title}`;
+    player.src = sec.video;
+
+    // Remove any existing tracks and add subtitle track
+    player.querySelectorAll('track').forEach(t => t.remove());
+    if (sec.subtitle) {
+      const track = document.createElement('track');
+      track.kind = 'captions';
+      track.label = 'English';
+      track.srclang = 'en';
+      track.src = sec.subtitle;
+      track.default = true;
+      player.appendChild(track);
+    }
+
+    modal.hidden = false;
+    player.play();
+  }
+
+  function closeVideo() {
+    const modal = document.getElementById('video-modal');
+    const player = document.getElementById('video-player');
+    player.pause();
+    player.src = '';
+    modal.hidden = true;
+  }
+
   // Public API
-  return { init, navigateTo, updateSidebar };
+  return { init, navigateTo, updateSidebar, openVideo };
 })();
 
 // Initialize when DOM is ready
