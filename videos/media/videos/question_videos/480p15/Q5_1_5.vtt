@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.068
+Question 5.1.5. Question 5. Concept of a Function.
+
+2
+00:00:07.434 --> 00:00:12.614
+Suppose g(x) equals 2x plus 3 over x-4.
+
+3
+00:00:14.334 --> 00:00:16.754
+Evaluate g(2)
+
+4
+00:00:16.867 --> 00:00:23.775
+Substitute x equals 2 into g(x) equals 2x plus 3 over x-4.
+
+5
+00:00:23.867 --> 00:00:28.906
+g(2) equals 2(2) plus 3 over 2-4 equals 7
+
+6
+00:00:29.006 --> 00:00:33.919
+over negative 2 equals negative 7 over 2
+
+7
+00:00:34.001 --> 00:00:39.973
+g(2) equals negative 7 over 2 equals negative 3.5
+
+8
+00:00:42.334 --> 00:00:45.066
+Evaluate g(0)
+
+9
+00:00:45.201 --> 00:00:47.933
+Substitute x equals 0.
+
+10
+00:00:48.001 --> 00:00:53.331
+g(0) equals 2(0) plus 3 over 0-4 equals 3
+
+11
+00:00:53.431 --> 00:00:58.629
+over negative 4 equals negative 3 over 4
+
+12
+00:00:58.667 --> 00:01:05.335
+g(0) equals negative 3 over 4 equals negative 0.75
+
+13
+00:01:07.667 --> 00:01:11.935
+Find x such that g(x) equals negative 3
+
+14
+00:01:12.067 --> 00:01:16.815
+Set g(x) equals negative 3 and solve for x.
+
+15
+00:01:16.867 --> 00:01:21.159
+2x plus 3 over x-4 equals negative 3
+
+16
+00:01:21.201 --> 00:01:28.589
+Multiply both sides by (x-4): 2x plus 3 equals negative 3(x - 4)
+
+17
+00:01:28.667 --> 00:01:32.887
+2x plus 3 equals negative 3x plus 12
+
+18
+00:01:32.934 --> 00:01:35.162
+5x equals 9
+
+19
+00:01:35.201 --> 00:01:39.229
+x equals 9 over 5 equals 1.8
+
+20
+00:01:39.267 --> 00:01:47.015
+Check: x equals 1.8 not equal to 4. so denominator is not zero. Valid!
+
+21
+00:01:47.067 --> 00:01:51.095
+x equals 9 over 5 equals 1.8
+
+22
+00:01:53.001 --> 00:01:57.520
+IB exam tip: When solving rational equations. always
+
+23
+00:01:57.620 --> 00:02:02.228
+verify your answer doesn't make the denominator zero.
+
+24
+00:02:02.328 --> 00:02:05.693
+If it does. the solution is extraneous.
+

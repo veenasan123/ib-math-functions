@@ -53,7 +53,9 @@ const QUESTIONS = [
     ],
     examTip: "Always show the substitution step clearly — you earn method marks for it even if your arithmetic slips.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_1_1.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_1_1.vtt"
   },
 
   {
@@ -97,7 +99,9 @@ const QUESTIONS = [
     ],
     examTip: "When substituting negative numbers into quadratics, always use brackets: \\((-4)^2\\), not \\(-4^2\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_1_2.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_1_2.vtt"
   },
 
   {
@@ -139,7 +143,9 @@ const QUESTIONS = [
     ],
     examTip: "Know your exponent rules: \\(a^0 = 1\\), \\(a^{-1} = \\frac{1}{a}\\). These come up frequently in IB exams.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_1_3.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_1_3.vtt"
   },
 
   {
@@ -176,7 +182,9 @@ const QUESTIONS = [
     ],
     examTip: "\"Find \\(x\\) if \\(f(x) = k\\)\" means solve the equation. Set the function expression equal to \\(k\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_1_4.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_1_4.vtt"
   },
 
   {
@@ -224,7 +232,9 @@ const QUESTIONS = [
     ],
     examTip: "When solving rational equations, always verify your answer doesn't make the denominator zero. If it does, the solution is extraneous.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_1_5.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_1_5.vtt"
   },
 
   // ===================== 5.2 Domain and Range =====================
@@ -276,7 +286,9 @@ const QUESTIONS = [
         { fn: "-(x-3)*(x-3)+2", label: "(b) Parabola", range: [-2, 8] }
       ]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_1.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_1.vtt"
   },
 
   {
@@ -315,7 +327,9 @@ const QUESTIONS = [
     ],
     examTip: "For parabolas: opens up → range \\(y \\geq\\) vertex; opens down → range \\(y \\leq\\) vertex.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_2.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_2.vtt"
   },
 
   {
@@ -356,7 +370,9 @@ const QUESTIONS = [
     ],
     examTip: "For rational functions, check both vertical asymptotes (domain) and horizontal asymptotes (range).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_3.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_3.vtt"
   },
 
   {
@@ -381,7 +397,9 @@ const QUESTIONS = [
     ],
     examTip: "For \\(\\sqrt{\\text{expression}}\\), always set expression \\(\\geq 0\\). Use \\(>\\) if the root is in a denominator.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_4.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_4.vtt"
   },
 
   {
@@ -404,7 +422,9 @@ const QUESTIONS = [
     ],
     examTip: "For fractions, always check what makes the denominator zero and exclude those values.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_5.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_5.vtt"
   },
 
   {
@@ -428,7 +448,9 @@ const QUESTIONS = [
     ],
     examTip: "For \\(\\ln(\\text{expression})\\), set expression \\(> 0\\) (strict inequality — log of zero is undefined).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_6.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_6.vtt"
   },
 
   {
@@ -451,7 +473,9 @@ const QUESTIONS = [
     ],
     examTip: "Polynomials and linear functions always have domain \\(x \\in \\mathbb{R}\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_7.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_7.vtt"
   },
 
   {
@@ -473,7 +497,9 @@ const QUESTIONS = [
     ],
     examTip: "Quick check: no fractions, no roots, no logs → domain is all reals.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_8.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_8.vtt"
   },
 
   {
@@ -494,7 +520,9 @@ const QUESTIONS = [
     hints: ["Set the denominator not equal to zero."],
     examTip: "Same logic as Q5 — denominator cannot be zero.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_9.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_9.vtt"
   },
 
   {
@@ -515,7 +543,9 @@ const QUESTIONS = [
     hints: ["The expression under the root must be non-negative."],
     examTip: "\\(\\sqrt{x}\\) requires \\(x \\geq 0\\). Note: \\(\\sqrt{0} = 0\\) is defined.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_10.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_10.vtt"
   },
 
   {
@@ -541,7 +571,9 @@ const QUESTIONS = [
     ],
     examTip: "When \\(\\sqrt{\\text{expr}}\\) is in a denominator, use strict inequality: expr \\(> 0\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_11.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_11.vtt"
   },
 
   {
@@ -565,7 +597,9 @@ const QUESTIONS = [
     ],
     examTip: "Factored denominators: set each factor \\(= 0\\) separately to find all excluded values.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_12.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_12.vtt"
   },
 
   {
@@ -589,7 +623,9 @@ const QUESTIONS = [
     ],
     examTip: "Always factor the denominator first — difference of squares \\(a^2 - b^2 = (a-b)(a+b)\\) is very common.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_13.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_13.vtt"
   },
 
   {
@@ -614,7 +650,9 @@ const QUESTIONS = [
     ],
     examTip: "Always factor quadratic denominators. Practice factoring — it saves time in the exam.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_2_14.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_2_14.vtt"
   },
 
   // ===================== 5.3 Inverse Functions =====================
@@ -643,7 +681,9 @@ const QUESTIONS = [
     ],
     examTip: "\\(f^{-1}\\) is NOT \\(\\frac{1}{f}\\). It is the reverse function — it undoes what \\(f\\) does.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_1.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_1.vtt"
   },
 
   {
@@ -675,7 +715,9 @@ const QUESTIONS = [
     ],
     examTip: "For simple functions like \\(f(x) = kx\\), the inverse is \\(f^{-1}(x) = \\frac{x}{k}\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_2.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_2.vtt"
   },
 
   {
@@ -710,7 +752,9 @@ const QUESTIONS = [
     ],
     examTip: "Know your perfect cubes: \\(1, 8, 27, 64, 125\\). They appear often in inverse questions.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_3.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_3.vtt"
   },
 
   {
@@ -745,7 +789,9 @@ const QUESTIONS = [
       inverseKeyPoints: [[-1, 0]],
       asymptote: { original: { type: "horizontal", value: -2 }, inverse: { type: "vertical", value: -2 } }
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_4.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_4.vtt"
   },
 
   {
@@ -774,7 +820,9 @@ const QUESTIONS = [
       keyPoints: [[-1.571, -1], [0, 0], [1.571, 1]],
       inverseKeyPoints: [[-1, -1.571], [0, 0], [1, 1.571]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_5.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_5.vtt"
   },
 
   {
@@ -803,7 +851,9 @@ const QUESTIONS = [
       keyPoints: [[0, 4], [2, 0]],
       inverseKeyPoints: [[4, 0], [0, 2]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_6.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_6.vtt"
   },
 
   {
@@ -840,7 +890,9 @@ const QUESTIONS = [
       keyPoints: [[0, 1], [-1, 2], [1, 2]],
       inverseKeyPoints: [[1, 0], [2, 1], [2, -1]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_7.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_7.vtt"
   },
 
   {
@@ -877,7 +929,9 @@ const QUESTIONS = [
       keyPoints: [[0, 1], [1.5708, 0], [3.1416, -1]],
       inverseKeyPoints: [[1, 0], [0, 1.5708], [-1, 3.1416]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_8.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_8.vtt"
   },
 
   {
@@ -916,7 +970,9 @@ const QUESTIONS = [
     ],
     examTip: "The most common mistake: forgetting to flip the inequality when multiplying or dividing by a negative.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_9.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_9.vtt"
   },
 
   {
@@ -976,7 +1032,9 @@ const QUESTIONS = [
       "Press ZOOM > 6:ZStandard",
       "Press 2nd TRACE > 2:zero to find x-intercept",
       "For inverse: press Y= and enter a second equation using DrawInv or reflect key points manually"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_3_10.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_3_10.vtt"
   },
 
   // ===================== 5.4 Sketching Graphs =====================
@@ -1006,7 +1064,9 @@ const QUESTIONS = [
       va: [3],
       ha: 0
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_1.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_1.vtt"
   },
 
   {
@@ -1031,7 +1091,9 @@ const QUESTIONS = [
     ],
     examTip: "Three cases for HA: same degree → ratio of leading coefficients; numerator degree < denominator → \\(y = 0\\); numerator degree > denominator → no HA.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_2.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_2.vtt"
   },
 
   {
@@ -1052,7 +1114,9 @@ const QUESTIONS = [
     hints: ["Compare degrees: numerator is degree 1, denominator is degree 2."],
     examTip: "If the numerator has a lower degree than the denominator, the horizontal asymptote is always \\(y = 0\\).",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_3.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_3.vtt"
   },
 
   {
@@ -1073,7 +1137,9 @@ const QUESTIONS = [
     hints: ["The numerator (degree 3) grows faster than the denominator (degree 2)."],
     examTip: "No HA when numerator degree > denominator degree. The function grows without bound.",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_4.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_4.vtt"
   },
 
   {
@@ -1114,7 +1180,9 @@ const QUESTIONS = [
       "Press 2nd TRACE > 1:value, enter X=0 for y-intercept",
       "Press 2nd TRACE > 2:zero to find x-intercept",
       "Look for the vertical gap near x = -4 (VA)"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_5.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_5.vtt"
   },
 
   {
@@ -1151,7 +1219,9 @@ const QUESTIONS = [
       "Press 2nd TRACE > 3:minimum",
       "Set left bound, right bound, and guess",
       "Read minimum: X ≈ -1, Y ≈ -0.368"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_6.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_6.vtt"
   },
 
   {
@@ -1194,7 +1264,9 @@ const QUESTIONS = [
       "Press ZOOM > 6:ZStandard (adjust window if needed)",
       "Use 2nd TRACE > 3:minimum and 4:maximum to find all vertices",
       "Record each (X, Y) coordinate"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_7.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_7.vtt"
   },
 
   {
@@ -1239,7 +1311,9 @@ const QUESTIONS = [
       "Press GRAPH",
       "Press 2nd TRACE > 5:intersect",
       "Select first curve, second curve, guess near each intersection"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_8.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_8.vtt"
   },
 
   {
@@ -1278,7 +1352,9 @@ const QUESTIONS = [
       "Y1 = 5-X², Y2 = e^(X)",
       "Press GRAPH, then 2nd TRACE > 5:intersect",
       "Read intersection: X ≈ 1.24, Y ≈ 3.46"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_9.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_9.vtt"
   },
 
   {
@@ -1318,7 +1394,9 @@ const QUESTIONS = [
       "Y1 = X^3, Y2 = e^(X)",
       "Adjust window: Xmin=-2, Xmax=6, Ymin=-5, Ymax=100",
       "Press 2nd TRACE > 5:intersect for each crossing"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_10.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_10.vtt"
   },
 
   {
@@ -1355,7 +1433,9 @@ const QUESTIONS = [
       "Y1 = X^3+X^2-1",
       "Press GRAPH, then 2nd TRACE > 2:zero",
       "Read root: X ≈ 0.755"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_11.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_11.vtt"
   },
 
   {
@@ -1397,7 +1477,9 @@ const QUESTIONS = [
       "Set window: Xmin=0, Xmax=500, Ymin=-500, Ymax=800",
       "Press 2nd TRACE > 4:maximum",
       "Read: X = 235, Y = 684.50"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_4_12.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_4_12.vtt"
   },
 
   // ===================== 5.5 Exam Style Questions =====================
@@ -1447,7 +1529,9 @@ const QUESTIONS = [
     ],
     examTip: "Inequality flips when you divide by a negative. This is one of the most common errors in IB exams!",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_1.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_1.vtt"
   },
 
   {
@@ -1497,7 +1581,9 @@ const QUESTIONS = [
       keyPoints: [[0, 0], [24, 17.4]],
       inverseKeyPoints: [[0, 0], [17.4, 24]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_2.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_2.vtt"
   },
 
   {
@@ -1548,7 +1634,9 @@ const QUESTIONS = [
     ],
     examTip: "Range of \\(f^{-1}\\) = Domain of \\(f\\), and Domain of \\(f^{-1}\\) = Range of \\(f\\). This is always true!",
     graph: null,
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_3.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_3.vtt"
   },
 
   {
@@ -1595,7 +1683,9 @@ const QUESTIONS = [
       keyPoints: [[0, 0], [20, 25]],
       inverseKeyPoints: [[0, 0], [25, 20]]
     },
-    ti84: null
+    ti84: null,
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_4.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_4.vtt"
   },
 
   {
@@ -1645,7 +1735,9 @@ const QUESTIONS = [
       "Press Y= and enter 3-12/(X+3)",
       "Set window: Xmin=-9, Xmax=9",
       "Press GRAPH to visualize the two branches"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_5.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_5.vtt"
   },
 
   {
@@ -1692,7 +1784,9 @@ const QUESTIONS = [
       "Y1 = √(X+1)/(X²-4)",
       "Set window: Xmin=-1, Xmax=5",
       "Observe the two branches around x = 2"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_6.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_6.vtt"
   },
 
   {
@@ -1745,7 +1839,9 @@ const QUESTIONS = [
       "Y1 = (X-12)/√(X²-4)",
       "Set window: Xmin=-15, Xmax=20, Ymin=-5, Ymax=5",
       "Observe VAs at x = ±2 and HAs at y = ±1"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_7.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_7.vtt"
   },
 
   {
@@ -1806,6 +1902,8 @@ const QUESTIONS = [
       "Set window: Xmin=2, Xmax=6",
       "Press 2nd TRACE > 5:intersect",
       "Read intersection: X ≈ 2.12"
-    ]
+    ],
+    questionVideo: "videos/media/videos/question_videos/480p15/Q5_5_8.mp4",
+    questionSubtitle: "videos/media/videos/question_videos/480p15/Q5_5_8.vtt"
   }
 ];

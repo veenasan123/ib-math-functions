@@ -1,0 +1,86 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.548
+Question 5.5.2. Question 2. Exam Style Questions.
+
+2
+00:00:07.866 --> 00:00:14.097
+The circumference. C. of a given circle can be represented by: C(A)
+
+3
+00:00:14.197 --> 00:00:19.199
+equals 2pisquare root of A over pi where A is the area
+
+4
+00:00:19.299 --> 00:00:23.829
+of the circle. for 0 less than or equal to A less
+
+5
+00:00:23.929 --> 00:00:28.742
+than or equal to 24. This question is worth 5 marks.
+
+6
+00:00:30.466 --> 00:00:34.926
+Find the value of C(24). [1 mark]
+
+7
+00:00:35.066 --> 00:00:40.983
+C(24) equals 2pisquare root of 24 over pi
+
+8
+00:00:41.083 --> 00:00:47.734
+equals 2pi times 2.764... equals 17.4 (3 s.f.)
+
+9
+00:00:47.800 --> 00:00:52.908
+C(24) approximately 17.4
+
+10
+00:00:55.266 --> 00:01:00.374
+Draw the graph of the inverse function C inverse. [3 marks]
+
+11
+00:01:00.533 --> 00:01:05.305
+Reflect the graph of C(A) in the line y equals x.
+
+12
+00:01:05.400 --> 00:01:16.796
+Key points: (0. 0) stays. (24. 17.4) maps to (17.4. 24).
+
+13
+00:01:16.866 --> 00:01:20.107
+The inverse curves upward (like a parabola)
+
+14
+00:01:20.207 --> 00:01:22.982
+since the original was a square root.
+
+15
+00:01:23.066 --> 00:01:30.958
+Parabola-like curve from (0. 0) through (17.4. 24).
+
+16
+00:01:33.266 --> 00:01:39.478
+Explain the meaning of C inverse(2pi) equals pi. [1 mark]
+
+17
+00:01:39.600 --> 00:01:44.732
+Put it in context: C inverse converts circumference to area.
+
+18
+00:01:44.800 --> 00:01:48.859
+A circle with circumference 2pi has area pi.
+
+19
+00:01:48.959 --> 00:01:52.452
+(This is the unit circle. r equals 1.)
+
+20
+00:01:54.400 --> 00:02:00.222
+IB exam tip: "Explain the meaning" questions: state what the input
+
+21
+00:02:00.322 --> 00:02:06.324
+represents. what the output represents. and connect them in context.
+

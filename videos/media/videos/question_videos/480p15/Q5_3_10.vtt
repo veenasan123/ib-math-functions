@@ -1,0 +1,82 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.308
+Question 5.3.10. Question 10. Inverse Functions.
+
+2
+00:00:07.666 --> 00:00:13.614
+A function is defined by f(x) equals x to the 3 plus x - 8.
+
+3
+00:00:15.333 --> 00:00:19.361
+Use technology to sketch y equals f(x).
+
+4
+00:00:19.466 --> 00:00:25.006
+Enter x to the 3 plus x - 8 in Y equals on the TI-84.
+
+5
+00:00:25.066 --> 00:00:29.921
+Key features: y-intercept at (0. negative
+
+6
+00:00:30.021 --> 00:00:35.118
+8). x-intercept at approximately (1.79. 0).
+
+7
+00:00:35.200 --> 00:00:43.092
+Cubic curve passing through (0. negative 8) and (1.79. 0).
+
+8
+00:00:45.400 --> 00:00:50.340
+Sketch y equals f inverse(x) on the same axis.
+
+9
+00:00:50.466 --> 00:00:52.934
+Reflect in y equals x.
+
+10
+00:00:53.000 --> 00:01:05.980
+(0. negative 8) maps to (-8. 0) and (1.79. 0) maps to (0. 1.79).
+
+11
+00:01:06.066 --> 00:01:14.006
+Reflected cubic through (-8. 0) and (0. 1.79).
+
+12
+00:01:16.333 --> 00:01:21.225
+Solve f(x) equals f inverse(x).
+
+13
+00:01:21.333 --> 00:01:28.167
+Key insight: f(x) equals f inverse(x) occurs where the graphs
+
+14
+00:01:28.267 --> 00:01:33.737
+intersect. which must lie on the line y equals x.
+
+15
+00:01:33.800 --> 00:01:40.468
+So solve f(x) equals x: x to the 3 plus x - 8 equals x
+
+16
+00:01:40.533 --> 00:01:43.001
+x to the 3 equals 8
+
+17
+00:01:43.066 --> 00:01:44.838
+x equals 2
+
+18
+00:01:45.000 --> 00:01:53.132
+f(x) equals f inverse(x) when x equals 2. Point: (2. 2).
+
+19
+00:01:55.066 --> 00:02:02.894
+IB exam tip: f(x) equals f inverse(x) . therefore. solve f(x)
+
+20
+00:02:02.994 --> 00:02:10.302
+equals x. This trick saves huge amounts of time in exams!
+

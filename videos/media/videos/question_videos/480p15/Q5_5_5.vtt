@@ -1,0 +1,98 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.572
+Question 5.5.5. Question 5. Exam Style Questions.
+
+2
+00:00:07.933 --> 00:00:13.488
+A function is defined by g(x) equals 3 - 12 over x plus 3
+
+3
+00:00:13.588 --> 00:00:19.441
+for negative 9 less than or equal to x less than or equal to
+
+4
+00:00:19.541 --> 00:00:25.593
+9.\ x not equal to negative 3. This question is worth 5 marks.
+
+5
+00:00:27.333 --> 00:00:30.521
+Find the range of g. [3 marks]
+
+6
+00:00:30.666 --> 00:00:35.698
+This function has a vertical asymptote at x equals negative
+
+7
+00:00:35.798 --> 00:00:40.742
+3 and horizontal asymptote y equals 3. Analyse each piece.
+
+8
+00:00:40.800 --> 00:00:46.978
+Left piece [-9. negative 3): g(-9) equals 3 - 12
+
+9
+00:00:47.078 --> 00:00:52.733
+over negative 6 equals 3 plus 2 equals 5. As
+
+10
+00:00:52.833 --> 00:00:59.012
+x maps to negative 3^-. g maps to plus infinity.
+
+11
+00:00:59.066 --> 00:01:03.046
+So on the left: y greater than or equal to 5.
+
+12
+00:01:03.133 --> 00:01:11.619
+Right piece (-3. 9]: As x maps to negative 3^ plus . g maps to
+
+13
+00:01:11.719 --> 00:01:19.929
+-infinity. g(9) equals 3 - 12 over 12 equals 3 - 1 equals 2.
+
+14
+00:01:20.000 --> 00:01:23.740
+So on the right: y less than or equal to 2.
+
+15
+00:01:23.800 --> 00:01:29.820
+Range: y less than or equal to 2 or y greater than or equal to 5
+
+16
+00:01:32.133 --> 00:01:37.001
+Find the value of g inverse(0). [2 marks]
+
+17
+00:01:37.133 --> 00:01:40.825
+Set g(x) equals 0 and solve.
+
+18
+00:01:40.866 --> 00:01:44.678
+3 - 12 over x plus 3 equals 0
+
+19
+00:01:44.733 --> 00:01:47.921
+12 over x plus 3 equals 3
+
+20
+00:01:48.000 --> 00:01:50.732
+x plus 3 equals 4
+
+21
+00:01:50.800 --> 00:01:52.572
+x equals 1
+
+22
+00:01:52.733 --> 00:01:56.281
+g inverse(0) equals 1
+
+23
+00:01:58.200 --> 00:02:03.595
+IB exam tip: Rational functions with restricted domains: always
+
+24
+00:02:03.695 --> 00:02:08.132
+check both pieces (left and right of the asymptote).
+

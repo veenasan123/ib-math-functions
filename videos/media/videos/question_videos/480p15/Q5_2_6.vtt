@@ -1,0 +1,38 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.900
+Question 5.2.6. Question 6. Domain and Range.
+
+2
+00:00:07.300 --> 00:00:13.032
+Find the domain of f(x) equals natural log of(x plus 3).
+
+3
+00:00:14.733 --> 00:00:18.317
+You cannot take the logarithm of zero or a
+
+4
+00:00:18.417 --> 00:00:22.001
+negative number. The argument must be > 0.
+
+5
+00:00:22.066 --> 00:00:24.966
+x plus 3 > 0
+
+6
+00:00:25.066 --> 00:00:27.558
+x > negative 3
+
+7
+00:00:27.600 --> 00:00:30.860
+Domain: x > negative 3
+
+8
+00:00:32.800 --> 00:00:39.793
+IB exam tip: For natural log of(expression). set expression >
+
+9
+00:00:39.893 --> 00:00:45.492
+0 (strict inequality — log of zero is undefined).
+

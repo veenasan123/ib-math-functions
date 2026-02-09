@@ -17,6 +17,9 @@ videos/media/texts/
 videos/media/Tex/
 videos/media/voiceovers/
 
+# Generated question data (build artifact)
+videos/questions.json
+
 # Manim conda/mamba environments
 videos/.mamba/
 

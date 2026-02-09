@@ -238,6 +238,32 @@ const App = (() => {
     player.play();
   }
 
+  function openQuestionVideo(q) {
+    if (!q.questionVideo) return;
+
+    const modal = document.getElementById('video-modal');
+    const player = document.getElementById('video-player');
+    const title = document.getElementById('video-title');
+
+    title.textContent = `${q.id} — ${q.label} Solution`;
+    player.src = q.questionVideo;
+
+    // Remove any existing tracks and add subtitle track
+    player.querySelectorAll('track').forEach(t => t.remove());
+    if (q.questionSubtitle) {
+      const track = document.createElement('track');
+      track.kind = 'captions';
+      track.label = 'English';
+      track.srclang = 'en';
+      track.src = q.questionSubtitle;
+      track.default = true;
+      player.appendChild(track);
+    }
+
+    modal.hidden = false;
+    player.play();
+  }
+
   function closeVideo() {
     const modal = document.getElementById('video-modal');
     const player = document.getElementById('video-player');
@@ -247,7 +273,7 @@ const App = (() => {
   }
 
   // Public API
-  return { init, navigateTo, updateSidebar, openVideo };
+  return { init, navigateTo, updateSidebar, openVideo, openQuestionVideo };
 })();
 
 // Initialize when DOM is ready

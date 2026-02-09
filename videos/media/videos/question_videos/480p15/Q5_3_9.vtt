@@ -1,0 +1,74 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.068
+Question 5.3.9. Question 9. Inverse Functions.
+
+2
+00:00:07.400 --> 00:00:12.268
+Let h(x) equals log(7 - 3x).
+
+3
+00:00:14.000 --> 00:00:17.140
+Find the largest possible domain of h.
+
+4
+00:00:17.266 --> 00:00:20.718
+The argument of log must be > 0.
+
+5
+00:00:20.800 --> 00:00:23.652
+7 - 3x > 0
+
+6
+00:00:23.733 --> 00:00:27.185
+negative 3x > negative 7
+
+7
+00:00:27.266 --> 00:00:31.774
+When dividing by a negative number. flip the inequality sign!
+
+8
+00:00:31.866 --> 00:00:34.358
+x < 7 over 3
+
+9
+00:00:34.400 --> 00:00:37.732
+Domain: x < 7 over 3
+
+10
+00:00:40.066 --> 00:00:42.606
+Find h inverse(2).
+
+11
+00:00:42.733 --> 00:00:47.121
+Set h(x) equals 2 and solve for x.
+
+12
+00:00:47.200 --> 00:00:51.012
+log(7 - 3x) equals 2
+
+13
+00:00:51.066 --> 00:00:55.358
+7 - 3x equals 10 squared equals 100
+
+14
+00:00:55.400 --> 00:00:58.540
+negative 3x equals 93
+
+15
+00:00:58.600 --> 00:01:01.212
+x equals negative 31
+
+16
+00:01:01.266 --> 00:01:05.318
+h inverse(2) equals negative 31
+
+17
+00:01:07.266 --> 00:01:11.658
+IB exam tip: The most common mistake: forgetting to flip
+
+18
+00:01:11.758 --> 00:01:16.310
+the inequality when multiplying or dividing by a negative.
+

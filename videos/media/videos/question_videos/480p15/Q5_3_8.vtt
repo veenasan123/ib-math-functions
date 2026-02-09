@@ -1,0 +1,50 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.948
+Question 5.3.8. Question 8. Inverse Functions.
+
+2
+00:00:07.266 --> 00:00:11.078
+Sketch the inverse functions of the following graphs.
+
+3
+00:00:12.800 --> 00:00:20.020
+y equals cosine(x). 0 less than or equal to x less than or equal to pi
+
+4
+00:00:20.133 --> 00:00:27.065
+The inverse of cosine(x) on [0. pi] is arc cosine(x).
+
+5
+00:00:27.133 --> 00:00:32.644
+Key points: (0. 1) maps to (1. 0)
+
+6
+00:00:32.744 --> 00:00:39.105
+and (pi. negative 1) maps to (-1. pi).
+
+7
+00:00:39.200 --> 00:00:47.428
+y equals arc cosine(x). domain [-1. 1]. range [0. pi].
+
+8
+00:00:49.733 --> 00:00:53.305
+Log-type curve from (0. 3)
+
+9
+00:00:53.466 --> 00:01:00.566
+Reflect in y equals x. (0. 3) maps to (3. 0).
+
+10
+00:01:00.600 --> 00:01:04.820
+Exponential-type curve from (3. 0).
+
+11
+00:01:06.733 --> 00:01:09.676
+IB exam tip: The inverse of a log
+
+12
+00:01:09.776 --> 00:01:13.641
+function is an exponential. and vice versa.
+

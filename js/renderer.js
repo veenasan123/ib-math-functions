@@ -39,6 +39,15 @@ const Renderer = (() => {
       </div>`;
     }
 
+    // Per-question solution video banner
+    if (q.questionVideo) {
+      html += `<div class="video-banner video-banner--solution" id="solution-video-banner">
+        <span class="video-banner__icon">&#9654;</span>
+        <span class="video-banner__text">Watch the <strong>${q.id}</strong> step-by-step solution video</span>
+        <button class="btn btn--solution btn--sm" id="btn-question-video">Watch Solution</button>
+      </div>`;
+    }
+
     html += `<div class="q-card">`;
 
     // Header
@@ -160,10 +169,14 @@ const Renderer = (() => {
       setTimeout(() => Graphs.render(q.graph, 'graph-plot', 'graph-controls'), 100);
     }
 
-    // Bind video banner
+    // Bind video banners
     const btnVideo = document.getElementById('btn-section-video');
     if (btnVideo) {
       btnVideo.addEventListener('click', () => App.openVideo(btnVideo.dataset.section));
+    }
+    const btnQVideo = document.getElementById('btn-question-video');
+    if (btnQVideo) {
+      btnQVideo.addEventListener('click', () => App.openQuestionVideo(q));
     }
 
     // Bind events

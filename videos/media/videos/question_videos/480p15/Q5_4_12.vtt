@@ -1,0 +1,62 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.332
+Question 5.4.12. Question 12. Sketching Graphs.
+
+2
+00:00:07.666 --> 00:00:14.406
+A manufacturing firm uses the following model for their monthly profit: P equals
+
+3
+00:00:14.506 --> 00:00:19.023
+9.4q - 0.02q squared - 420 where P is the profit and q
+
+4
+00:00:19.123 --> 00:00:24.666
+is the number of items produced that month. How many items a month
+
+5
+00:00:24.766 --> 00:00:29.454
+should the firm produce in order to maximize the profit?
+
+6
+00:00:31.200 --> 00:00:36.692
+This is a downward-opening parabola. The maximum is at the vertex.
+
+7
+00:00:36.733 --> 00:00:43.041
+For P equals negative 0.02q squared plus 9.4q - 420.
+
+8
+00:00:43.141 --> 00:00:47.601
+the vertex is at q equals -b over 2a.
+
+9
+00:00:47.666 --> 00:00:59.254
+q equals negative 9.4 over 2(-0.02) equals 9.4 over 0.04 equals 235
+
+10
+00:00:59.333 --> 00:01:13.216
+P(235) equals 9.4(235) - 0.02(235)^2 - 420 equals
+
+11
+00:01:13.316 --> 00:01:22.633
+2209 - 1104.5 - 420 equals 684.50
+
+12
+00:01:22.666 --> 00:01:31.854
+Produce 235 items per month. Maximum profit equals \$684.50
+
+13
+00:01:33.800 --> 00:01:39.100
+IB exam tip: Real-world optimization: identify it as a
+
+14
+00:01:39.200 --> 00:01:44.600
+quadratic. find the vertex. The vertex formula x equals
+
+15
+00:01:44.700 --> 00:01:48.100
+-b over 2a is on the formula sheet.
+

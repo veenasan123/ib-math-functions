@@ -1,0 +1,70 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.852
+Question 5.4.8. Question 8. Sketching Graphs.
+
+2
+00:00:07.200 --> 00:00:10.823
+Find the points of intersection of y equals
+
+3
+00:00:10.923 --> 00:00:13.508
+-x squared and y equals 2x - 1.
+
+4
+00:00:15.266 --> 00:00:18.478
+Set the two equations equal to each other.
+
+5
+00:00:18.533 --> 00:00:21.433
+-x squared equals 2x - 1
+
+6
+00:00:21.533 --> 00:00:25.081
+x squared plus 2x - 1 equals 0
+
+7
+00:00:25.133 --> 00:00:31.628
+Using the quadratic formula: x equals negative 2 plus or minus square root
+
+8
+00:00:31.728 --> 00:00:36.975
+of 4 plus 42 equals negative 2 plus or minus 2square root of
+
+9
+00:00:37.075 --> 00:00:41.521
+22 equals negative 1 plus or minus square root of 2
+
+10
+00:00:41.600 --> 00:00:47.651
+x sub 1 equals negative 1 plus square root of 2
+
+11
+00:00:47.751 --> 00:00:57.076
+approximately 0.41. y sub 1 equals -(0.41)^2 approximately negative 0.17
+
+12
+00:00:57.133 --> 00:01:02.506
+x sub 2 equals negative 1 - square root of 2
+
+13
+00:01:02.606 --> 00:01:12.705
+approximately negative 2.41. y sub 2 equals -(-2.41)^2 approximately negative 5.83
+
+14
+00:01:12.800 --> 00:01:19.000
+(-1 plus square root of 2.\ negative 3 plus 2square root of
+
+15
+00:01:19.100 --> 00:01:25.300
+2) and (-1-square root of 2.\ negative 3-2square root of 2)
+
+16
+00:01:27.266 --> 00:01:32.533
+IB exam tip: For intersection problems: set equations
+
+17
+00:01:32.633 --> 00:01:37.798
+equal. solve. then substitute back to find y-values.
+

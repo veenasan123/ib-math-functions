@@ -1,0 +1,38 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.972
+Question 5.4.9. Question 9. Sketching Graphs.
+
+2
+00:00:07.333 --> 00:00:12.022
+Find the coordinates of the point of intersection of y
+
+3
+00:00:12.122 --> 00:00:15.393
+equals 5 - x squared and y equals e^x.
+
+4
+00:00:17.133 --> 00:00:22.121
+This cannot be solved algebraically — use the graphical calculator.
+
+5
+00:00:22.200 --> 00:00:26.007
+Graph both y equals 5 - x squared and
+
+6
+00:00:26.107 --> 00:00:30.020
+y equals e^x and use CALC > intersect.
+
+7
+00:00:30.066 --> 00:00:36.086
+Intersection at approximately (1.24.\ 3.46)
+
+8
+00:00:38.000 --> 00:00:42.128
+IB exam tip: When you see a mix of polynomial and
+
+9
+00:00:42.228 --> 00:00:48.772
+exponential/log. you'll need the calculator. Don't waste time trying algebra.
+

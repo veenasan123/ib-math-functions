@@ -1,0 +1,50 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.972
+Question 5.4.2. Question 2. Sketching Graphs.
+
+2
+00:00:07.333 --> 00:00:12.869
+Find the horizontal asymptote of f(x) equals 3x squared
+
+3
+00:00:12.969 --> 00:00:16.353
+- x plus 5 over 2x squared plus 4.
+
+4
+00:00:18.066 --> 00:00:22.522
+When the highest powers in numerator and denominator are the
+
+5
+00:00:22.622 --> 00:00:26.318
+same. the HA is the ratio of leading coefficients.
+
+6
+00:00:26.400 --> 00:00:30.581
+Both are degree 2. Leading coefficients:
+
+7
+00:00:30.681 --> 00:00:34.220
+3 (numerator) and 2 (denominator).
+
+8
+00:00:34.266 --> 00:00:38.198
+y equals 3 over 2 equals 1.5
+
+9
+00:00:38.266 --> 00:00:42.678
+Horizontal asymptote: y equals 3 over 2
+
+10
+00:00:44.600 --> 00:00:50.289
+IB exam tip: Three cases for HA: same degree →
+
+11
+00:00:50.389 --> 00:00:58.469
+ratio of leading coefficients; numerator degree < denominator → y
+
+12
+00:00:58.569 --> 00:01:04.636
+equals 0; numerator degree > denominator → no HA.
+

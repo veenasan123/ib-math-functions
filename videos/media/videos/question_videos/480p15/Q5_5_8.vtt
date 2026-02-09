@@ -1,0 +1,102 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.452
+Question 5.5.8. Question 8. Exam Style Questions.
+
+2
+00:00:07.800 --> 00:00:12.844
+A function is defined by g(x) equals 2x plus natural
+
+3
+00:00:12.944 --> 00:00:17.396
+log of(x - 2). This question is worth 7 marks.
+
+4
+00:00:19.133 --> 00:00:23.041
+State the domain and range of g. [2 marks]
+
+5
+00:00:23.200 --> 00:00:31.908
+For natural log of(x-2) to be defined: x - 2 > 0 . therefore. x > 2.
+
+6
+00:00:32.000 --> 00:00:35.586
+As x maps to 2^ plus . natural log
+
+7
+00:00:35.686 --> 00:00:41.332
+of(x-2) maps to -infinity. so g(x) maps to -infinity.
+
+8
+00:00:41.400 --> 00:00:46.556
+As x maps to infinity. g(x) maps to infinity.
+
+9
+00:00:46.600 --> 00:00:53.628
+Domain: x > 2. Range: y in the real numbers (all real numbers).
+
+10
+00:00:55.933 --> 00:01:00.010
+Sketch y equals g(x) and y equals g
+
+11
+00:01:00.110 --> 00:01:04.545
+inverse(x) on the same axes. [3 marks]
+
+12
+00:01:04.666 --> 00:01:09.486
+g has a vertical asymptote at x equals 2.
+
+13
+00:01:09.586 --> 00:01:14.406
+Key point: g(3) equals 6 plus 0 equals 6.
+
+14
+00:01:14.466 --> 00:01:20.558
+g(x): through (3. 6) with VA x equals 2.
+
+15
+00:01:20.600 --> 00:01:27.268
+g inverse(x): through (6. 3) with HA y equals 2.
+
+16
+00:01:27.333 --> 00:01:30.950
+Draw both curves reflected in y equals x.
+
+17
+00:01:31.050 --> 00:01:33.761
+with y equals x as dashed line.
+
+18
+00:01:36.066 --> 00:01:42.206
+Solve g(x) equals g inverse(x). [2 marks]
+
+19
+00:01:42.333 --> 00:01:51.473
+g(x) equals g inverse(x) occurs on y equals x. So solve g(x) equals x.
+
+20
+00:01:51.533 --> 00:01:56.113
+2x plus natural log of(x-2) equals x
+
+21
+00:01:56.200 --> 00:02:00.588
+x plus natural log of(x-2) equals 0
+
+22
+00:02:00.666 --> 00:02:05.678
+Using TI-84: x approximately 2.12.
+
+23
+00:02:05.733 --> 00:02:12.833
+x approximately 2.12. Point: (2.12. 2.12).
+
+24
+00:02:14.800 --> 00:02:20.218
+IB exam tip: Intersection of f and f inverse always occurs on
+
+25
+00:02:20.318 --> 00:02:25.284
+the line y equals x. This is a classic IB exam question!
+

@@ -1,0 +1,46 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:06.020
+Question 5.3.1. Question 1. Inverse Functions.
+
+2
+00:00:07.333 --> 00:00:13.473
+If f(x) equals 3x plus 5. find f inverse(11).
+
+3
+00:00:15.200 --> 00:00:22.012
+f inverse(11) means: what value of x gives f(x) equals 11?
+
+4
+00:00:22.066 --> 00:00:27.678
+Set f(x) equals 11: 3x plus 5 equals 11
+
+5
+00:00:27.733 --> 00:00:29.865
+3x equals 6
+
+6
+00:00:29.933 --> 00:00:31.705
+x equals 2
+
+7
+00:00:31.866 --> 00:00:37.195
+Alternative method: find the inverse formula f inverse(x)
+
+8
+00:00:37.295 --> 00:00:40.814
+equals x-5 over 3. then substitute 11.
+
+9
+00:00:40.866 --> 00:00:44.198
+f inverse(11) equals 2
+
+10
+00:00:46.133 --> 00:00:50.098
+IB exam tip: f inverse is NOT 1 over f. It
+
+11
+00:00:50.198 --> 00:00:54.745
+is the reverse function — it undoes what f does.
+
